@@ -1,0 +1,6 @@
+[*]
+chartset = utf-8
+end_of_lin = lf
+
+[*.md]
+trim_trailing_whitespace = false
